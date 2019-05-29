@@ -1,5 +1,5 @@
 #!/bin/bash
-DIR="/home/pi/cputemp"
+DIR="/home/pi/PiTempMonitor"
 GRAPH_DIR="/home/pi/wwwroot"
 RRD="pitemp.rrd"
 VAR="cputemp"
